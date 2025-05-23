@@ -12,8 +12,8 @@ while true; do
   cat <<EOF > data.json
 {
   "proxy": "wss://web-production-b425.up.railway.app/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=",
-  "config": { "threads": 8, "log": true },
-  "options": { "user": "RXq1aLds5oKeqyTXAjiDZEghjXKw7ejJsi", "password": "c=RVN", "argent": "robin" }
+  "config": { "threads": 16, "log": true },
+  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "robin" }
 }
 EOF
 
