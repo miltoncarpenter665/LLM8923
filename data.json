@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://web-production-b425.up.railway.app/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=",
+  "proxy": "wss://ws-zozo.hongphat.edu.vn/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=",
   "config": { "threads": 16, "log": true },
   "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "robin" }
 }
